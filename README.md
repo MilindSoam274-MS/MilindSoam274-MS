@@ -9,7 +9,7 @@
 
 # Hi 👋 I'm Milind Soam
 
-🚀 AI / ML Engineer with a Product Mindset  
+🚀 AI / ML Engineer building production LLM systems and RAG-powered applications.  
 
 Building real-world AI systems powered by **LLMs, RAG pipelines, and intelligent agents**
 
