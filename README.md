@@ -103,3 +103,12 @@ https://github.com/MilindSoam274-MS/phi-2-qlora-finetuning
 • **LLM evaluation frameworks** for measuring AI response quality
 
 • Building **AI products with strong product thinking**
+
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milind%20Soam-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/milind-soam-3657981b1)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:milindsoam274@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-MilindSoam274--MS-black?style=for-the-badge&logo=github)](https://github.com/MilindSoam274-MS)
