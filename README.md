@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Milind Soam
 
-<!--
-**MilindSoam274-MS/MilindSoam274-MS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI / ML Engineer with a Product Mindset  
+Building real-world AI systems powered by **LLMs, RAG pipelines, and intelligent agents**
 
-Here are some ideas to get you started:
+I enjoy building **production-focused AI products** that combine strong engineering with practical user value.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🤖 AI / ML Engineer focused on **Generative AI, LLM systems, and intelligent automation**
+- 🧠 Experience building **RAG pipelines, conversational AI systems, and AI-powered products**
+- 🏗️ Interested in **AI architecture, multi-agent systems, and scalable AI infrastructure**
+- 🧩 Strong interest in **product thinking, user experience, and real-world AI applications**
+- 🌱 Always learning and experimenting with **new AI tools, frameworks, and ideas**
+
+
+## ⚙️ Tech Stack
+
+**Languages**
+
+Python
+
+**AI / ML**
+
+PyTorch • TensorFlow • Scikit-Learn • XGBoost
+
+**LLM & AI Frameworks**
+
+LangChain • RAG Pipelines • Prompt Engineering
+
+**Data & Infrastructure**
+
+Redis • FAISS • Kafka • MongoDB • SQL
+
+**Cloud & DevOps**
+
+AWS • Azure • Docker
+
+**AI Systems**
+
+Conversational AI • Multi-Agent Systems • AI Product Development
