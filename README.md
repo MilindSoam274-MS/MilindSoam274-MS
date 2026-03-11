@@ -44,6 +44,12 @@ I enjoy building **production-focused AI products** that combine strong engineer
 ## 🚀 Featured Projects
 
 ### 🛒 CartCopilot — AI Shopping Assistant
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-orange)
+![Vector DB](https://img.shields.io/badge/Vector_DB-FAISS-green)
+![State](https://img.shields.io/badge/State-Redis-red)
+
 A hybrid AI assistant for food & grocery shopping built using **LangGraph, RAG pipelines, FAISS vector search, and Redis state management**.
 
 Features:
@@ -58,6 +64,11 @@ Features:
 ---
 
 ### 📚 LangChain RAG & Chains Tutorial
+
+![Python](https://img.shields.io/badge/Python-blue)
+![LangChain](https://img.shields.io/badge/LangChain-RAG-orange)
+![Vector DB](https://img.shields.io/badge/Vector_DB-ChromaDB-green)
+
 Hands-on exploration of **Retrieval Augmented Generation using LangChain**, demonstrating how LLMs can retrieve and reason over external knowledge.
 
 🔗 [View Repository](https://github.com/MilindSoam274-MS/LangChain-RAG-and-Chains-Tutorial)
@@ -65,6 +76,11 @@ Hands-on exploration of **Retrieval Augmented Generation using LangChain**, demo
 ---
 
 ### 🧠 Prompt Engineering for Developers
+
+![Python](https://img.shields.io/badge/Python-blue)
+![LLM](https://img.shields.io/badge/LLM-Prompt_Engineering-orange)
+![OpenAI](https://img.shields.io/badge/API-OpenAI-green)
+
 A notebook-based project exploring **prompt design patterns, LLM reasoning, and structured AI prompting techniques**.
 
 🔗 [View Repository](https://github.com/MilindSoam274-MS/prompt-engineering-for-developers)
@@ -72,6 +88,11 @@ A notebook-based project exploring **prompt design patterns, LLM reasoning, and 
 ---
 
 ### ⚡ Phi-2 QLoRA Fine-Tuning
+
+![Python](https://img.shields.io/badge/Python-blue)
+![LLM](https://img.shields.io/badge/LLM-Phi--2-purple)
+![QLoRA](https://img.shields.io/badge/Fine_Tuning-QLoRA-red)
+
 Implementation of **parameter-efficient fine-tuning of Microsoft’s Phi-2 model using QLoRA**, demonstrating modern LLM training techniques.
 
 🔗 [View Repository](https://github.com/MilindSoam274-MS/phi-2-qlora-finetuning)
