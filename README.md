@@ -39,3 +39,43 @@ AWS • Azure • Docker
 **AI Systems**
 
 Conversational AI • Multi-Agent Systems • AI Product Development
+
+
+## 🚀 Featured Projects
+
+### 🛒 CartCopilot — AI Shopping Assistant
+A hybrid AI assistant for food & grocery shopping built using **LangGraph, RAG pipelines, FAISS vector search, and Redis state management**.
+
+Features:
+- Conversational shopping assistant
+- Semantic product search
+- Redis-based cart memory
+- Microservices architecture
+- Observability with Prometheus & Grafana
+
+🔗 Repository  
+https://github.com/MilindSoam274-MS/cartcopilot
+
+---
+
+### 📚 LangChain RAG & Chains Tutorial
+Hands-on exploration of **Retrieval Augmented Generation using LangChain**, demonstrating how LLMs can retrieve and reason over external knowledge.
+
+🔗 Repository  
+https://github.com/MilindSoam274-MS/LangChain-RAG-and-Chains-Tutorial
+
+---
+
+### 🧠 Prompt Engineering for Developers
+A notebook-based project exploring **prompt design patterns, LLM reasoning, and structured AI prompting techniques**.
+
+🔗 Repository  
+https://github.com/MilindSoam274-MS/prompt-engineering-for-developers
+
+---
+
+### ⚡ Phi-2 QLoRA Fine-Tuning
+Implementation of **parameter-efficient fine-tuning of Microsoft’s Phi-2 model using QLoRA**, demonstrating modern LLM training techniques.
+
+🔗 Repository  
+https://github.com/MilindSoam274-MS/phi-2-qlora-finetuning
