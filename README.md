@@ -45,32 +45,28 @@ Features:
 - Microservices architecture
 - Observability with Prometheus & Grafana
 
-🔗 Repository  
-https://github.com/MilindSoam274-MS/cartcopilot
+🔗 [View Repository](https://github.com/MilindSoam274-MS/cartcopilot)
 
 ---
 
 ### 📚 LangChain RAG & Chains Tutorial
 Hands-on exploration of **Retrieval Augmented Generation using LangChain**, demonstrating how LLMs can retrieve and reason over external knowledge.
 
-🔗 Repository  
-https://github.com/MilindSoam274-MS/LangChain-RAG-and-Chains-Tutorial
+🔗 [View Repository](https://github.com/MilindSoam274-MS/LangChain-RAG-and-Chains-Tutorial)
 
 ---
 
 ### 🧠 Prompt Engineering for Developers
 A notebook-based project exploring **prompt design patterns, LLM reasoning, and structured AI prompting techniques**.
 
-🔗 Repository  
-https://github.com/MilindSoam274-MS/prompt-engineering-for-developers
+🔗 [View Repository](https://github.com/MilindSoam274-MS/prompt-engineering-for-developers)
 
 ---
 
 ### ⚡ Phi-2 QLoRA Fine-Tuning
 Implementation of **parameter-efficient fine-tuning of Microsoft’s Phi-2 model using QLoRA**, demonstrating modern LLM training techniques.
 
-🔗 Repository  
-https://github.com/MilindSoam274-MS/phi-2-qlora-finetuning
+🔗 [View Repository](https://github.com/MilindSoam274-MS/phi-2-qlora-finetuning)
 
 
 
