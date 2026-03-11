@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=Auto&text=Milind%20Soam&fontSize=40&desc=AI%20/%20ML%20Engineer%20•%20LLM%20Systems%20•%20Product%20Mindset&descSize=40" width="100%">
+
 # Hi 👋 I'm Milind Soam
 
 🚀 AI / ML Engineer with a Product Mindset  
