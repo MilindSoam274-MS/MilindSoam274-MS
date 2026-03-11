@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=Auto&text=Milind%20Soam&fontSize=40&desc=AI%20/%20ML%20Engineer%20•%20LLM%20Systems%20•%20Product%20Mindset&descSize=40" width="100%">
+<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Milind+Soam;AI+%2F+ML+Engineer;LLM+Systems+%E2%80%A2+RAG+%E2%80%A2+Intelligent+Agents;Building+AI+Products)](https://git.io/typing-svg)
+</p>
 
 # Hi 👋 I'm Milind Soam
 
