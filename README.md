@@ -18,7 +18,7 @@ I enjoy building **production-focused AI products** that combine strong engineer
 ## 👨‍💻 About Me
 
 - 🤖 AI / ML Engineer focused on **Generative AI, LLM systems, and intelligent automation**
-- 🧠 Experience building **RAG pipelines, conversational AI systems, and AI-powered products**
+- 🧠 Experience building **RAG pipelines**, **conversational AI systems**, and **AI-powered products**
 - 🏗️ Interested in **AI architecture, multi-agent systems, and scalable AI infrastructure**
 - 🧩 Strong interest in **product thinking, user experience, and real-world AI applications**
 - 🌱 Always learning and experimenting with **new AI tools, frameworks, and ideas**
