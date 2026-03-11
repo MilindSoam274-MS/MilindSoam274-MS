@@ -2,6 +2,10 @@
   <img src="github-header-banner.png" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=AI+%2F+ML+Engineer;LLM+Systems+%7C+RAG+Pipelines;Building+Real-World+AI+Products;Multi-Agent+AI+Workflows" />
+</p>
+
 # Hi 👋 I'm Milind Soam
 
 🚀 AI / ML Engineer with a Product Mindset  
