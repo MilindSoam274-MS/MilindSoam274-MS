@@ -79,3 +79,16 @@ Implementation of **parameter-efficient fine-tuning of Microsoft’s Phi-2 model
 
 🔗 Repository  
 https://github.com/MilindSoam274-MS/phi-2-qlora-finetuning
+
+
+
+## 📊 GitHub Stats
+
+![Milind's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilindSoam274-MS&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilindSoam274-MS&layout=compact&theme=tokyonight)
+
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=MilindSoam274-MS&theme=tokyonight)
