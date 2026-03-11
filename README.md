@@ -111,13 +111,10 @@ Implementation of **parameter-efficient fine-tuning of Microsoft’s Phi-2 model
 
 ## 🌱 Currently Exploring
 
-• Advanced **RAG architectures for production AI systems**
-
-• **Multi-agent AI workflows** using LangGraph
-
-• **LLM evaluation frameworks** for measuring AI response quality
-
-• Building **AI products with strong product thinking**
+• **Advanced RAG architectures** for production AI systems  
+• **Multi-agent AI workflows** using LangGraph  
+• **LLM evaluation frameworks** for measuring response quality  
+• **AI product architecture** and scalable AI infrastructure
 
 
 ## 🤝 Connect With Me
