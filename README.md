@@ -26,6 +26,13 @@ I enjoy building **production-focused AI products** that combine strong engineer
 - 🧩 Strong interest in **product thinking, user experience, and real-world AI applications**
 - 🌱 Always learning and experimenting with **new AI tools, frameworks, and ideas**
 
+## 🧠 AI Focus Areas
+
+• Retrieval-Augmented Generation (RAG) systems  
+• LLM fine-tuning and prompt engineering  
+• Multi-agent AI workflows  
+• Conversational AI systems  
+• AI product architecture
 
 ## ⚙️ Tech Stack
 
