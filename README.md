@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=AI+%2F+ML+Engineer;LLM+Systems+%7C+RAG+Pipelines;Building+Real-World+AI+Products;Multi-Agent+AI+Workflows" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MilindSoam274-MS&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 # Hi 👋 I'm Milind Soam
 
 🚀 AI / ML Engineer with a Product Mindset  
@@ -96,6 +100,9 @@ https://github.com/MilindSoam274-MS/phi-2-qlora-finetuning
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilindSoam274-MS&layout=compact&theme=tokyonight)
 
+## 📈 Contribution Graph
+
+![Milind's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MilindSoam274-MS&theme=tokyo-night)
 
 ## 🔥 GitHub Streak
 
