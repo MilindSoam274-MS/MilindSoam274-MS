@@ -36,9 +36,7 @@ I enjoy building **production-focused AI products** that combine strong engineer
 
 ## ⚙️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,aws,azure,mongodb,redis,kafka,git" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,aws,azure,mongodb,redis,kafka,git,fastapi" />
 
 
 ## 🚀 Featured Projects
