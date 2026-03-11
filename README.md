@@ -92,3 +92,14 @@ https://github.com/MilindSoam274-MS/phi-2-qlora-finetuning
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MilindSoam274-MS&theme=tokyonight)
+
+
+## 🌱 Currently Exploring
+
+• Advanced **RAG architectures for production AI systems**
+
+• **Multi-agent AI workflows** using LangGraph
+
+• **LLM evaluation frameworks** for measuring AI response quality
+
+• Building **AI products with strong product thinking**
